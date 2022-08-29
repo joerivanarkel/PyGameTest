@@ -90,3 +90,5 @@ while running:
     screen.blit(player.surf, player.rect)
     
     pygame.display.flip()
+
+# https://realpython.com/pygame-a-primer/
